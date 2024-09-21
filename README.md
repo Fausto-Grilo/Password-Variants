@@ -14,7 +14,7 @@ The **Password Variant Generator** is a Python script that generates multiple va
 1. Make sure you have **Python 3** installed. You can download it from [Python's official website](https://www.python.org/downloads/).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/password-variant-generator.git
+   git clone https://github.com/Fausto-Grilo/Password-Variants.git
    ```
 3. Navigate to the project directory:
    ```bash
